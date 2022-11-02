@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: blue;
   }
   @media screen and (min-width: 480px) {
@@ -9,5 +9,25 @@ body {
   @media screen and (min-width: 800px) {
     body {
       background-color: green;
-    }
+    } */
   }
+
+ body {
+display: grid;
+
+
+ }
+
+  nav {
+border: 2px; 
+display: flex;
+justify-content: space-around;
+  }
+
+@media (min-width: 680px) {
+nav (
+    
+)
+
+
+}
